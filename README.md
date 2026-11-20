@@ -15,3 +15,16 @@ Create commercial 15-second and 20-second social media promo videos with an AI b
 1. Open [promoai.video](https://promoai.video) and describe your product or service.
 2. Refine the brief, duration (15s or 20s), and aspect ratio with the Promo AI assistant.
 3. Review the exact price and confirm payment to generate your video.
+
+## 🌍 Supported Languages & Keywords
+
+Promo AI supports creating social media promotional videos across multiple languages:
+
+- **English:** AI promo video maker, social media video ads generator, commercial product video creator, TikTok & Reels ad maker.
+- **Slovenčina:** AI tvorba promo videa, generátor reklamných videí na sociálne siete, tvorba videoreklamy bez predplatného.
+- **Čeština:** AI tvorba promo videa, generátor reklamních videí na sociální sítě, tvorba videoreklamy online.
+- **Deutsch:** KI Promo-Video erstellen, Werbevideo Generator für Social Media, Produktvideo mit KI erstellen.
+- **Español:** Crear videos promocionales con IA, generador de anuncios de video para redes sociales, videos comerciales con inteligencia artificial.
+- **Français:** Créer une vidéo promotionnelle avec l'IA, générateur de publicités vidéo pour réseaux sociaux, montage vidéo commercial IA.
+- **Polski:** Generator wideo promocyjnego AI, tworzenie reklam wideo na media społecznościowe, filmy reklamowe AI.
+- **Magyar:** AI promóciós videó készítő, közösségi média reklámvideó generátor, üzleti videó készítés mesterséges intelligenciával.
